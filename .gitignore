@@ -1,0 +1,7 @@
+sample.md
+*.html
+markdownTool
+*.exe
+.*.swp
+*.*~
+*~
